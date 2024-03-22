@@ -12,6 +12,14 @@
     },
     {
       "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000004",
+      "decimals": 18,
+      "logoURI": "ipfs://bafybeidpzsutas3wbytex4654yq66kamfrexdzrgbn5rrdzi4et5gqi5si/weth_32.webp",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 81457,
       "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
       "decimals": 18,
       "logoURI": "ipfs://bafybeid3fvsu6svkbt3o4rhiafgvixzumijf5ispqtjnhpbpmnxmldevuq/pacmoon.png",
