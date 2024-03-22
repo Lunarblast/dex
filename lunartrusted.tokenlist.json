@@ -11,12 +11,12 @@
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
     "crypto": {
-      "name": "Crypto",
-      "description": "Tokens that are fixed to an crypto"
+      "name": "Wrapped Tokens",
+      "description": "Wrapped crypto tokens are cryptocurrencies pegged to the value of another original crypto or assets like gold, stocks, shares, and real estate and put to work on the DeFi platforms."
     },
     "memecoin": {
-      "name": "Memecoins",
-      "description": "Memecoin"
+      "name": "Memecoin",
+      "description": "Meme coins are a type of cryptocurrency that's highly speculative and supported by certain enthusiastic online communities."
     }
   },
   "timestamp": "2024-03-21T00:00:00+00:00",
@@ -37,7 +37,7 @@
       "address": "0x4300000000000000000000000000000000000004",
       "decimals": 18,
       "tags": [
-        "crypto"
+        "Wrapped Tokens"
       ],
       "logoURI": "ipfs://bafybeidpzsutas3wbytex4654yq66kamfrexdzrgbn5rrdzi4et5gqi5si/weth_32.webp",
       "name": "Wrapped Ether",
