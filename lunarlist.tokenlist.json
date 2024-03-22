@@ -45,6 +45,17 @@
     },
     {
       "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000003",
+      "decimals": 18,
+      "tags": [
+        "stablecoin"
+      ],
+      "logoURI": "ipfs://bafybeifomwrzwoe2qhlhdz4hgmgak224rste6n4t4lmm42op5qqxyl3f7m/usdb_32.webp",
+      "name": "USDB",
+      "symbol": "USDB"
+    },
+    {
+      "chainId": 81457,
       "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
       "decimals": 18,
       "tags": [
