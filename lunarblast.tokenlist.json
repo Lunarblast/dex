@@ -1,11 +1,29 @@
 {
   "name": "Trusted by $LUNAR",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "trusted",
+    "memecoins"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "memecoin": {
+      "name": "Memecoins",
+      "description": "Memecoin"
+    }
+  },
   "timestamp": "2024-03-21T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 81457,
       "address": "0x3a711bb0c2e2e224817a3ade646ee1fc3861e723",
       "decimals": 9,
+      "tags": [
+        "memecoin"
+      ],
       "logoURI": "ipfs://bafybeidcqorqmnpjntxj3ezupb2qczhydk4gng6ypognndyvrdljlwyazq/lunarblast.png",
       "name": "LunarBlast",
       "symbol": "LUNAR"
@@ -14,6 +32,9 @@
       "chainId": 81457,
       "address": "0x4300000000000000000000000000000000000004",
       "decimals": 18,
+      "tags": [
+        "stablecoin"
+      ],
       "logoURI": "ipfs://bafybeidpzsutas3wbytex4654yq66kamfrexdzrgbn5rrdzi4et5gqi5si/weth_32.webp",
       "name": "Wrapped Ether",
       "symbol": "WETH"
@@ -22,6 +43,9 @@
       "chainId": 81457,
       "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
       "decimals": 18,
+      "tags": [
+        "memecoin"
+      ],
       "logoURI": "ipfs://bafybeid3fvsu6svkbt3o4rhiafgvixzumijf5ispqtjnhpbpmnxmldevuq/pacmoon.png",
       "name": "PacMoon",
       "symbol": "PAC"
