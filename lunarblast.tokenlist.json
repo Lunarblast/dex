@@ -4,6 +4,13 @@
   "tokens": [
     {
       "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000004",
+      "decimals": 9,
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH"
+    },
+    {
+      "chainId": 81457,
       "address": "0x3a711bb0c2e2e224817a3ade646ee1fc3861e723",
       "decimals": 9,
       "logoURI": "ipfs://bafybeidcqorqmnpjntxj3ezupb2qczhydk4gng6ypognndyvrdljlwyazq/lunarblast.png",
