@@ -6,7 +6,7 @@
       "chainId": 81457,
       "address": "0x3a711bb0c2e2e224817a3ade646ee1fc3861e723",
       "decimals": 9,
-      "logoURI": "https://dex.lunaronblast.com/images/tokens/lunarblast.png",
+      "logoURI": "ipfs://QmXuCbTY1yTbypkdsw7rHswejCtrbu1zcznWKtiLtnhuiE/logo.png",
       "name": "LunarBlast",
       "symbol": "LUNAR"
     },
@@ -14,7 +14,7 @@
       "chainId": 81457,
       "address": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
       "decimals": 18,
-      "logoURI": "https://dex.lunaronblast.com/images/tokens/pacmoon.png",
+      "logoURI": "ipfs://QmWdV1DgSdWm47Kb58AXe5nHa4AASns47DeZSsVLgBsp7V/pacmoon.png",
       "name": "PacMoon",
       "symbol": "PAC"
     }
