@@ -64,6 +64,28 @@
       "logoURI": "ipfs://bafybeid3fvsu6svkbt3o4rhiafgvixzumijf5ispqtjnhpbpmnxmldevuq/pacmoon.png",
       "name": "PacMoon",
       "symbol": "PAC"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8",
+      "decimals": 9,
+      "tags": [
+        "memecoin"
+      ],
+      "logoURI": "ipfs://bafybeiedacgsxfu7eyjdjwfbvvz2qp4l443z5okx2zfhqpbvorm57dbcsu/andy.png",
+      "name": "Andy",
+      "symbol": "ANDY"
+    },
+    {
+      "chainId": 81457,
+      "address": "0xa4c7aa67189ec5623121c6c94ec757dfed932d4b",
+      "decimals": 18,
+      "tags": [
+        "memecoin"
+      ],
+      "logoURI": "ipfs://bafybeie7pc4jdzf22bh7pfny27ipv6eo4iucrk3ewqciklf7igajbyoe2e/mia.jpeg",
+      "name": "Mia",
+    "symbol": "MIA"
     }
   ],
   "version": {
