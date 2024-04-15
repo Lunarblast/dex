@@ -23,17 +23,6 @@
   "tokens": [
     {
       "chainId": 81457,
-      "address": "0x3a711bb0c2e2e224817a3ade646ee1fc3861e723",
-      "decimals": 9,
-      "tags": [
-        "memecoin"
-      ],
-      "logoURI": "ipfs://bafybeidnfz4a5irqprndqi2d7m4tbvxkhgihgzooatgiekgrvwv7qq27lu/logo-icon.png",
-      "name": "LunarBlast",
-      "symbol": "LUNAR"
-    },
-    {
-      "chainId": 81457,
       "address": "0x4300000000000000000000000000000000000004",
       "decimals": 18,
       "tags": [
